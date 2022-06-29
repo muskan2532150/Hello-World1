@@ -26,27 +26,12 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 A BROWSER IS NEEDED (CHROME,MICROSOFT EDGE)
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 
 
 ## Author
 
-👤 **Author**
-
 - GitHub: @muskan2532150
 - Twitter: @muskan2532150
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-
 
 ## 🤝 Contributing
 
