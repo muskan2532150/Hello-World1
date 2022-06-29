@@ -1,18 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# HELLO MICROVERSE
 
-> Description the project.
+> FIRST PROJECT WITH MICROVERSE USING LINTERS
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+-CSS
+
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+https://muskan2532150.github.io/Hello-World1/
 
 
 ## Getting Started
@@ -24,6 +24,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+A BROWSER IS NEEDED (CHROME,MICROSOFT EDGE)
 
 ### Setup
 
@@ -37,19 +38,15 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: @muskan2532150
+- Twitter: @muskan2532150
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
